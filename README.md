@@ -1,4 +1,4 @@
 # hello-world
 Petit training
 
-J'aime les chats et les tartiflettes.
+Je mange du fromage le matin.
